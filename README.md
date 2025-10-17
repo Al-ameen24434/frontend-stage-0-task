@@ -3,6 +3,7 @@ A modern, accessible, and responsive profile card component built with plain HTM
 Demo
 
 Live URL: https://al-ammen-stage-o.netlify.app/
+
 GitHub Repo: https://github.com/Al-ameen24434/frontend-stage-0-task.git
 
 Features
@@ -20,6 +21,7 @@ Installation
 
 Clone the Repository:
 git clone https://github.com/Al-ameen24434/frontend-stage-0-task.git
+
 cd frontend-stage-0-task
 
 
