@@ -2,7 +2,7 @@ Profile Card
 A modern, accessible, and responsive profile card component built with plain HTML, CSS, and vanilla JavaScript. This project demonstrates semantic HTML, real-time updates, and a visually appealing design inspired by contemporary web standards.
 Demo
 
-Live URL:
+Live URL: https://al-ammen-stage-o.netlify.app/
 GitHub Repo: https://github.com/Al-ameen24434/frontend-stage-0-task.git
 
 Features
